@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="00e1b82a-fc8a-4f5e-a4fd-b9a1f5dd947c" name="Changes" comment="geht jetzt gut &#10;3D Dipolvektoren, ...">
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Continuation/Qutip/Functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/BA_Code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BA_Code.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Continuation/Qutip/Qutip_N_atoms - Kopie.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Continuation/Qutip/Qutip_N_atoms - Kopie.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Continuation/Qutip/Topology.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Continuation/Qutip/Topology.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;LBPhysics&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/LBPhysics/GIT_Code_BA.git&quot;,
+    &quot;accountId&quot;: &quot;efd03aaf-344a-4776-8c59-608a22946e32&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2hVJp7IsjFjfeE51PhvCAQn85DY" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/leopo/OneDrive - UT Cloud/Uni/Semester_8/BA_mit_Git/BA_Code",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\leopo\OneDrive - UT Cloud\Uni\Semester_8\BA_mit_Git\BA_Code" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-PY-241.15989.155" />
+        <option value="bundled-python-sdk-babbdf50b680-7c6932dee5e4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00e1b82a-fc8a-4f5e-a4fd-b9a1f5dd947c" name="Changes" comment="" />
+      <created>1717673490954</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717673490954</updated>
+      <workItem from="1717673492028" duration="343000" />
+      <workItem from="1717673844776" duration="10894000" />
+      <workItem from="1717755668427" duration="7020000" />
+      <workItem from="1717878921167" duration="5356000" />
+      <workItem from="1717930390722" duration="8579000" />
+      <workItem from="1718001049539" duration="2272000" />
+      <workItem from="1718003584455" duration="10949000" />
+      <workItem from="1718111350529" duration="1831000" />
+      <workItem from="1718115315703" duration="10852000" />
+      <workItem from="1718193657808" duration="7020000" />
+      <workItem from="1718206028592" duration="10699000" />
+      <workItem from="1718280765496" duration="6052000" />
+      <workItem from="1718356468152" duration="713000" />
+      <workItem from="1718357189142" duration="7462000" />
+    </task>
+    <task id="LOCAL-00001" summary="PLSSSS geh einfach">
+      <option name="closed" value="true" />
+      <created>1717673919848</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717673919848</updated>
+    </task>
+    <task id="LOCAL-00002" summary="heyy erste Änderungen">
+      <option name="closed" value="true" />
+      <created>1717684835947</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1717684835947</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Versuch: Mit Psi0 superradianz zu bekommen">
+      <option name="closed" value="true" />
+      <created>1717881013728</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717881013728</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Versuch: Greenstensor, H_eff jetzt direkt NxN">
+      <option name="closed" value="true" />
+      <created>1717999972921</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717999972921</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Versuch: Greenstensor, H_eff jetzt direkt NxN">
+      <option name="closed" value="true" />
+      <created>1718003215706</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718003215706</updated>
+    </task>
+    <task id="LOCAL-00006" summary="New positions function for the ringatom">
+      <option name="closed" value="true" />
+      <created>1718006661606</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1718006661606</updated>
+    </task>
+    <task id="LOCAL-00007" summary="New positions function for the ringatom">
+      <option name="closed" value="true" />
+      <created>1718007815970</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1718007815970</updated>
+    </task>
+    <task id="LOCAL-00008" summary="New positions function for the ringatom">
+      <option name="closed" value="true" />
+      <created>1718009049760</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1718009049760</updated>
+    </task>
+    <task id="LOCAL-00009" summary="minor changes">
+      <option name="closed" value="true" />
+      <created>1718009246954</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1718009246954</updated>
+    </task>
+    <task id="LOCAL-00010" summary="bissle confusion &#10;mit plotting &#10;aber vielversprechend">
+      <option name="closed" value="true" />
+      <created>1718032448732</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1718032448732</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Jetzt klappts mit dem wavepaket, ...">
+      <option name="closed" value="true" />
+      <created>1718118593994</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1718118593994</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Jetzt klappts mit dem wavepaket, ...&#10;analysiere optimale Dipole Orientation">
+      <option name="closed" value="true" />
+      <created>1718122154505</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1718122154505</updated>
+    </task>
+    <task id="LOCAL-00013" summary="test">
+      <option name="closed" value="true" />
+      <created>1718123267716</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1718123267716</updated>
+    </task>
+    <task id="LOCAL-00014" summary="minor changes">
+      <option name="closed" value="true" />
+      <created>1718196731965</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1718196731965</updated>
+    </task>
+    <task id="LOCAL-00015" summary="leider klappt die optimisierung nicht">
+      <option name="closed" value="true" />
+      <created>1718200706108</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1718200706108</updated>
+    </task>
+    <task id="LOCAL-00016" summary="leider klappt die optimisierung nicht">
+      <option name="closed" value="true" />
+      <created>1718224108563</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1718224108563</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Revise this &#10;not working ://">
+      <option name="closed" value="true" />
+      <created>1718227802778</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1718227802778</updated>
+    </task>
+    <task id="LOCAL-00018" summary="geht jetzt gut &#10;3D Dipolvektoren, ...">
+      <option name="closed" value="true" />
+      <created>1718227819232</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1718227819232</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="PLSSSS geh einfach" />
+    <MESSAGE value="heyy erste Änderungen" />
+    <MESSAGE value="Versuch: Mit Psi0 superradianz zu bekommen" />
+    <MESSAGE value="Versuch: Greenstensor, H_eff jetzt direkt NxN" />
+    <MESSAGE value="New positions function for the ringatom" />
+    <MESSAGE value="bissle confusion &#10;mit plotting &#10;aber vielversprechend" />
+    <MESSAGE value="Jetzt klappts mit dem wavepaket, ..." />
+    <MESSAGE value="Jetzt klappts mit dem wavepaket, ...&#10;analysiere optimale Dipole Orientation" />
+    <MESSAGE value="test" />
+    <MESSAGE value="minor changes" />
+    <MESSAGE value="leider klappt die optimisierung nicht" />
+    <MESSAGE value="Revise this &#10;not working ://" />
+    <MESSAGE value="geht jetzt gut &#10;3D Dipolvektoren, ..." />
+    <option name="LAST_COMMIT_MESSAGE" value="geht jetzt gut &#10;3D Dipolvektoren, ..." />
+  </component>
+</project>
